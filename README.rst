@@ -13,3 +13,6 @@ Please see CONTRIBUTING for how to contribute patches and report bugs.
 
 Questions about commercial support and services related to Varnish
 should be addressed to <sales@varnish-software.com>.
+
+Doc
+https://varnish-cache.org/docs/5.1/installation/install.html
